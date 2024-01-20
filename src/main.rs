@@ -27,7 +27,7 @@ fn main() {
 
         println!("The factorial of your guess is {}", factorial_int_guess);
     }else {
-        println!("The value entered would likely overflow an i128 an so no factorial has been clalculated")
+        println!("The value entered would likely overflow an i128 an so no factorial                                                                           has been clalculated")
     }
     
     println!("The triple of that number is {}", list_sum(vec![int_guess,int_guess,int_guess])) ;
